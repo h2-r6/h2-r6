@@ -2,7 +2,7 @@
 
 <p data-importer="text" align="center">ccbdf3bde4414bc9118e95e8fb7a3c3f 👾</p>
 
-Welcome to my GitHub profile! I'm from Mexico, I', based in CDMX and passionate about technology, system administration, software development and cybersecurity.
+Welcome to my GitHub profile! I'm from Mexico, passionate about technology, system administration, software development and cybersecurity.
 
 ---
 
