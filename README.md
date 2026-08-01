@@ -76,3 +76,11 @@ Welcome to my GitHub profile! I'm from Mexico, passionate about technology, syst
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Servers](https://img.shields.io/badge/Servers-00599C?style=for-the-badge&logo=serverless&logoColor=white)
 
+## My Contribution Graph
+
+<!-- galaga -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h2-r6/h2-r6/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h2-r6/h2-r6/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/h2-r6/h2-r6/output/galaga-contribution-graph.svg">
+</picture>
