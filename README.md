@@ -76,12 +76,3 @@ Welcome to my GitHub profile! I'm based in Mexico and passionate about technolog
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Servers](https://img.shields.io/badge/Servers-00599C?style=for-the-badge&logo=serverless&logoColor=white)
 
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h2-r6/h2-r6/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h2-r6/h2-r6/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/h2-r6/h2-r6/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
