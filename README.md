@@ -76,7 +76,6 @@ Welcome to my GitHub profile! I'm from Mexico, passionate about technology, syst
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Servers](https://img.shields.io/badge/Servers-00599C?style=for-the-badge&logo=serverless&logoColor=white)
 
-## My Contribution Graph
 
 <!-- galaga -->
 <picture>
