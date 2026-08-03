@@ -18,10 +18,6 @@ Welcome to my GitHub profile! I'm from Mexico, passionate about technology, syst
 
 ###
 
-<p data-importer="text" align="left">¡Bienvenid@ a mi perfil de GitHub! Soy de México y me apasiona la tecnología, la administración de sistemas, el desarrollo y la seguridad informática.</p>
-
-###
-
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/hiyadir-barrera-cuervo-38716b318/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
